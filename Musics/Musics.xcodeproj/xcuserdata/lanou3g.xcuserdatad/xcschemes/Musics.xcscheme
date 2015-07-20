@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C2477A1E1B5CCF420008CA4F"
-               BuildableName = "myRepository.app"
-               BlueprintName = "myRepository"
-               ReferencedContainer = "container:myRepository.xcodeproj">
+               BlueprintIdentifier = "C26DCA411B5CD5BE00C5C4E7"
+               BuildableName = "Musics.app"
+               BlueprintName = "Musics"
+               ReferencedContainer = "container:Musics.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C2477A371B5CCF430008CA4F"
-               BuildableName = "myRepositoryTests.xctest"
-               BlueprintName = "myRepositoryTests"
-               ReferencedContainer = "container:myRepository.xcodeproj">
+               BlueprintIdentifier = "C26DCA5A1B5CD5BE00C5C4E7"
+               BuildableName = "MusicsTests.xctest"
+               BlueprintName = "MusicsTests"
+               ReferencedContainer = "container:Musics.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C2477A371B5CCF430008CA4F"
-               BuildableName = "myRepositoryTests.xctest"
-               BlueprintName = "myRepositoryTests"
-               ReferencedContainer = "container:myRepository.xcodeproj">
+               BlueprintIdentifier = "C26DCA5A1B5CD5BE00C5C4E7"
+               BuildableName = "MusicsTests.xctest"
+               BlueprintName = "MusicsTests"
+               ReferencedContainer = "container:Musics.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C2477A1E1B5CCF420008CA4F"
-            BuildableName = "myRepository.app"
-            BlueprintName = "myRepository"
-            ReferencedContainer = "container:myRepository.xcodeproj">
+            BlueprintIdentifier = "C26DCA411B5CD5BE00C5C4E7"
+            BuildableName = "Musics.app"
+            BlueprintName = "Musics"
+            ReferencedContainer = "container:Musics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C2477A1E1B5CCF420008CA4F"
-            BuildableName = "myRepository.app"
-            BlueprintName = "myRepository"
-            ReferencedContainer = "container:myRepository.xcodeproj">
+            BlueprintIdentifier = "C26DCA411B5CD5BE00C5C4E7"
+            BuildableName = "Musics.app"
+            BlueprintName = "Musics"
+            ReferencedContainer = "container:Musics.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C2477A1E1B5CCF420008CA4F"
-            BuildableName = "myRepository.app"
-            BlueprintName = "myRepository"
-            ReferencedContainer = "container:myRepository.xcodeproj">
+            BlueprintIdentifier = "C26DCA411B5CD5BE00C5C4E7"
+            BuildableName = "Musics.app"
+            BlueprintName = "Musics"
+            ReferencedContainer = "container:Musics.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:myRepository.xcodeproj">
+      location = "self:Musics.xcodeproj">
    </FileRef>
 </Workspace>

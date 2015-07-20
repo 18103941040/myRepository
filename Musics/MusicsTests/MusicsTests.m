@@ -1,6 +1,6 @@
 //
-//  myRepositoryTests.m
-//  myRepositoryTests
+//  MusicsTests.m
+//  MusicsTests
 //
 //  Created by lanou3g on 15/7/20.
 //  Copyright (c) 2015年 guofeng. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface myRepositoryTests : XCTestCase
+@interface MusicsTests : XCTestCase
 
 @end
 
-@implementation myRepositoryTests
+@implementation MusicsTests
 
 - (void)setUp {
     [super setUp];
