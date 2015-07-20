@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C204C0AE1B5CD3C500E332B8 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C204C0AD1B5CD3C500E332B8 /* TableViewController.m */; };
 		C2477A251B5CCF430008CA4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C2477A241B5CCF430008CA4F /* main.m */; };
 		C2477A281B5CCF430008CA4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C2477A271B5CCF430008CA4F /* AppDelegate.m */; };
 		C2477A2B1B5CCF430008CA4F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2477A2A1B5CCF430008CA4F /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C204C0AC1B5CD3C500E332B8 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		C204C0AD1B5CD3C500E332B8 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		C2477A1F1B5CCF430008CA4F /* myRepository.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myRepository.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2477A231B5CCF430008CA4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2477A241B5CCF430008CA4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +88,8 @@
 				C2477A271B5CCF430008CA4F /* AppDelegate.m */,
 				C2477A291B5CCF430008CA4F /* ViewController.h */,
 				C2477A2A1B5CCF430008CA4F /* ViewController.m */,
+				C204C0AC1B5CD3C500E332B8 /* TableViewController.h */,
+				C204C0AD1B5CD3C500E332B8 /* TableViewController.m */,
 				C2477A2C1B5CCF430008CA4F /* Main.storyboard */,
 				C2477A2F1B5CCF430008CA4F /* Images.xcassets */,
 				C2477A311B5CCF430008CA4F /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				C2477A2B1B5CCF430008CA4F /* ViewController.m in Sources */,
 				C2477A281B5CCF430008CA4F /* AppDelegate.m in Sources */,
 				C2477A251B5CCF430008CA4F /* main.m in Sources */,
+				C204C0AE1B5CD3C500E332B8 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +422,7 @@
 				C2477A441B5CCF430008CA4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C2477A451B5CCF430008CA4F /* Build configuration list for PBXNativeTarget "myRepositoryTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				C2477A471B5CCF430008CA4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
